@@ -1,0 +1,11 @@
+name: PolyaRestart
+version: 1.0
+main: ru.gorodilov.autorestart.core.AutoRestart
+author: Gorodilov
+commands:
+    polyare:
+        description: 'Main PolyaRestart command.'
+        usage: '/polyare help'
+    server:
+        description: 'When restart'
+        usage: '/server'
